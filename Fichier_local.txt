@@ -1,2 +1,6 @@
  Ce fichier texte a été créé en local sur mon PC avec vim
  Vim est un éditeur de texte.
+ 
+ --
+ Je complète maintenant ce fichier texte dans GitHub avec l'éditeur de texte en ligne.
+ (beaucoup plus simple que vim!)
