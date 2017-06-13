@@ -1,0 +1,2 @@
+ Ce fichier texte a été créé en local sur mon PC avec vim
+ Vim est un éditeur de texte.
