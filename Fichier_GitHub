@@ -1,2 +1,7 @@
 Ici j'ai créé un fichier directement sur GitHub.
-C'est très pratique. Je vais ensuite faire un pull pour continuer l'exercice jusqu'au bout. J'ai bien récupéré on fichier en local avec la commande git pull origin master .
+C'est très pratique. Je vais ensuite faire un pull pour continuer l'exercice jusqu'au bout. 
+
+J'ai bien récupéré on fichier en local avec la commande: git pull origin master
+
+(plus facile de faire une mise en forme du texte sur GitHub que sur Vim)
+
